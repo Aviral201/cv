@@ -1,0 +1,15 @@
+.uppercontainer{
+    display: flex;
+    ;
+
+}
+.country-number-contactus{
+    ;
+    display: inline-block;
+}
+.searchbar-or-login{
+    display: flex;
+}
+.logo{
+    background-color: aqua;
+}
